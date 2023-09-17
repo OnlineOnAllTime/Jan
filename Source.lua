@@ -135,5 +135,3 @@ function NotifyUI(Color, Text0, Delay)
     CloseGUI()
 
 end
-
-NotifyUI("Blue2", "Kali Hub is the best script of the market.", false)
